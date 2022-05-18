@@ -1,0 +1,14 @@
+{
+  "name": "HobbitQ",
+  "namespace": "com.saraya.app",
+  "type": "record",
+  "fields": [
+    {
+      "name": "thorinsCompany",
+      "type": {
+        "avro.java.string": "String",
+        "type": "string"
+      }
+    }
+  ]
+}
